@@ -3,3 +3,8 @@
 
 ## pageswitch
 https://github.com/qiqiboy/pageSwitch 
+
+## 性能检测
+https://github.com/pod4g/hiper
+
+
